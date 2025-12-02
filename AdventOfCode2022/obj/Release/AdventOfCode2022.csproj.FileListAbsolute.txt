@@ -1,0 +1,7 @@
+C:\Users\gdwyer\source\repos\AdventOfCode2022\bin\Release\AdventOfCode2022.exe.config
+C:\Users\gdwyer\source\repos\AdventOfCode2022\bin\Release\AdventOfCode2022.exe
+C:\Users\gdwyer\source\repos\AdventOfCode2022\bin\Release\AdventOfCode2022.pdb
+C:\Users\gdwyer\source\repos\AdventOfCode2022\obj\Release\AdventOfCode2022.csproj.AssemblyReference.cache
+C:\Users\gdwyer\source\repos\AdventOfCode2022\obj\Release\AdventOfCode2022.csproj.CoreCompileInputs.cache
+C:\Users\gdwyer\source\repos\AdventOfCode2022\obj\Release\AdventOfCode2022.exe
+C:\Users\gdwyer\source\repos\AdventOfCode2022\obj\Release\AdventOfCode2022.pdb

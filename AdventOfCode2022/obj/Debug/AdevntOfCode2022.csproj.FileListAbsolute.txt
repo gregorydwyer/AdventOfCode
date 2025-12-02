@@ -1,0 +1,7 @@
+C:\Users\gdwyer\source\repos\AdevntOfCode2022\bin\Debug\AdevntOfCode2022.exe.config
+C:\Users\gdwyer\source\repos\AdevntOfCode2022\bin\Debug\AdevntOfCode2022.exe
+C:\Users\gdwyer\source\repos\AdevntOfCode2022\bin\Debug\AdevntOfCode2022.pdb
+C:\Users\gdwyer\source\repos\AdevntOfCode2022\obj\Debug\AdevntOfCode2022.csproj.AssemblyReference.cache
+C:\Users\gdwyer\source\repos\AdevntOfCode2022\obj\Debug\AdevntOfCode2022.csproj.CoreCompileInputs.cache
+C:\Users\gdwyer\source\repos\AdevntOfCode2022\obj\Debug\AdevntOfCode2022.exe
+C:\Users\gdwyer\source\repos\AdevntOfCode2022\obj\Debug\AdevntOfCode2022.pdb
