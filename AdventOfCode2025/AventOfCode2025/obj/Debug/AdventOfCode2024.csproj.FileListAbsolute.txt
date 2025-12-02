@@ -1,0 +1,6 @@
+C:\Users\gdwyer\source\repos\AventOfCode2024\AventOfCode2024\bin\Debug\AdventOfCode2024.exe.config
+C:\Users\gdwyer\source\repos\AventOfCode2024\AventOfCode2024\bin\Debug\AdventOfCode2024.exe
+C:\Users\gdwyer\source\repos\AventOfCode2024\AventOfCode2024\bin\Debug\AdventOfCode2024.pdb
+C:\Users\gdwyer\source\repos\AventOfCode2024\AventOfCode2024\obj\Debug\AdventOfCode2024.csproj.CoreCompileInputs.cache
+C:\Users\gdwyer\source\repos\AventOfCode2024\AventOfCode2024\obj\Debug\AdventOfCode2024.exe
+C:\Users\gdwyer\source\repos\AventOfCode2024\AventOfCode2024\obj\Debug\AdventOfCode2024.pdb
