@@ -19,7 +19,7 @@ namespace AdventOfCode2024
 
         public static void Problem1()
         {
-            Program.WriteProblemNumber(Day + " P1");
+            Program.WriteProblemNumber("Part One");
             using (var sr = Program.GetReader(FileLocation))
             {
                 var line = sr.ReadLine();
@@ -48,7 +48,7 @@ namespace AdventOfCode2024
 
         public static void Problem2()
         {
-            Program.WriteProblemNumber(Day + " P2");
+            Program.WriteProblemNumber("Part Two");
             using (var sr = Program.GetReader(FileLocation))
             {
                 var line = sr.ReadLine();

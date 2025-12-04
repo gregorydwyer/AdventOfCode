@@ -16,7 +16,7 @@ namespace AdventOfCode2024
 
         public static void Problem1()
         {
-            Console.WriteLine(Day + " P1");
+            Program.WriteProblemNumber("Part One");
             using (Program.GetReader(FileLocation))
             {
 
@@ -25,7 +25,7 @@ namespace AdventOfCode2024
 
         public static void Problem2()
         {
-            Console.WriteLine(Day + " P2");
+            Program.WriteProblemNumber("Part Two");
             using (Program.GetReader(FileLocation))
             {
 
