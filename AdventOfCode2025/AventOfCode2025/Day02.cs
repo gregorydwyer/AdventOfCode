@@ -91,17 +91,21 @@ namespace AdventOfCode2024
             return total;
         }
 
-        private static bool IsRepeatingCode(string input, string pattern = "", int i = 0)
+        private static bool IsRepeatingCode(string input)
         {
-            for (i = 1; i <= input.Length / 2; i++)
+            // Longest pattern can only be half the input length
+            for (var i = 1; i <= input.Length / 2; i++)
             {
+                // if the length of the input is not divisible by the pattern length, it can't repeat and fit
                 if (input.Length % i != 0)
                 {
                     continue;
                 }
 
+                // set the starting index to the current index
                 var start = i;
                 var sub = input.Substring(0, i);
+                // repeatedly check substrings of pattern length and return if we get to the end of the string
                 while (sub.Equals(input.Substring(start, i)))
                 {
                     start += i;
@@ -110,9 +114,7 @@ namespace AdventOfCode2024
                         return true;
                     }
                 }
-
             }
-
             return false;
         }
     }

@@ -10,6 +10,7 @@ namespace AdventOfCode2024
 
         public static void Run()
         {
+            Program.WriteTitle("--- Day 12: Christmas Tree Farm ---");
             Problem1();
             Problem2();
         }
